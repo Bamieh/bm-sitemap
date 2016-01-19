@@ -5,7 +5,8 @@
   "homepage": "http://ahmadbamieh.me/",
   "author": "Ahmad Bamieh",
   "files": [
-    "lib"
+    "lib",
+    "index.js"
   ],
   "main": "index.js",
   "keywords": [
