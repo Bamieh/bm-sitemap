@@ -1,4 +1,6 @@
 # bm-sitemap [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bamieh/bm-sitemap.svg)](https://greenkeeper.io/)
 > Create XML sitemaps to provide for google indexing.
 
 ## Installation
